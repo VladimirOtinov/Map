@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\str\Interactive_map_Otinov\bin\Debug\Interactive_map_Otinov.exe.config
+C:\Users\student\source\repos\str\Interactive_map_Otinov\bin\Debug\Interactive_map_Otinov.exe
+C:\Users\student\source\repos\str\Interactive_map_Otinov\bin\Debug\Interactive_map_Otinov.pdb
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.Form1.resources
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.Properties.Resources.resources
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.exe
+C:\Users\student\source\repos\str\Interactive_map_Otinov\obj\Debug\Interactive_map_Otinov.pdb
